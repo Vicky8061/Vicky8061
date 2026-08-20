@@ -104,11 +104,11 @@ A complete **pickleball court booking platform** designed to connect players wit
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vicky8061&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vicky8061&layout=compact&theme=github_dark&hide_border=true" height="170"/>
-</p>
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="./profile/stats.svg" height="170"/>
+</p>
 ---
 
 ## 📈 Contribution Streak
